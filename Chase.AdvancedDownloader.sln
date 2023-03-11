@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chase.AdvancedDownloader", "Chase.AdvancedDownloader.csproj", "{03015776-D8ED-4666-BD7C-C69715E860D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{EF3A2BEB-95B3-46BA-8DD1-0B6D34EC2AA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{03015776-D8ED-4666-BD7C-C69715E860D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03015776-D8ED-4666-BD7C-C69715E860D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03015776-D8ED-4666-BD7C-C69715E860D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3A2BEB-95B3-46BA-8DD1-0B6D34EC2AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3A2BEB-95B3-46BA-8DD1-0B6D34EC2AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3A2BEB-95B3-46BA-8DD1-0B6D34EC2AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3A2BEB-95B3-46BA-8DD1-0B6D34EC2AA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
